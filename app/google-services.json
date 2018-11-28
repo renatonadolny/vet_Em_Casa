@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "411724008173",
+    "firebase_url": "https://veterinario-fb4fe.firebaseio.com",
+    "project_id": "veterinario-fb4fe",
+    "storage_bucket": "veterinario-fb4fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411724008173:android:5b6b01368e95a4b1",
+        "android_client_info": {
+          "package_name": "intervetemcasa.opet.com.veterinario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411724008173-c3gq3a0httovhrif3i9l3d5t8fsc51j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "intervetemcasa.opet.com.veterinario",
+            "certificate_hash": "2dec55e3535f4a77401ec497b3cba861be9b3440"
+          }
+        },
+        {
+          "client_id": "411724008173-sms7260udcpqb0roivv4vtp56g89s5o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCltl2kDECwaJlHO-47mknlRq4uL0XwoMI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "411724008173-sms7260udcpqb0roivv4vtp56g89s5o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
