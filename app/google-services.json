@@ -15,14 +15,6 @@
       },
       "oauth_client": [
         {
-          "client_id": "411724008173-c3gq3a0httovhrif3i9l3d5t8fsc51j3.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "intervetemcasa.opet.com.veterinario",
-            "certificate_hash": "2dec55e3535f4a77401ec497b3cba861be9b3440"
-          }
-        },
-        {
           "client_id": "411724008173-sms7260udcpqb0roivv4vtp56g89s5o2.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "411724008173-sms7260udcpqb0roivv4vtp56g89s5o2.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
